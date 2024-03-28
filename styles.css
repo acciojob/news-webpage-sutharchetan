@@ -7,7 +7,7 @@
 	background-color:#011e29;
 	display:flex;
 	justify-content:center;
-	
+	text-align:center;
 	}
 h2{
 	color:white;
@@ -25,6 +25,9 @@ h2{
 	padding:10px;
 	width:100px
 	}
+.article-main-block{
+	background-color:white
+}
 h3{
 	background-color:white
 }
@@ -44,5 +47,6 @@ p{
 	width:150px;
 	border-radius:absolute;
 }
+
 
 
